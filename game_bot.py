@@ -3,7 +3,7 @@ from telebot import types
 import random
 
 
-token = '5143177801:AAG3mtTfXKakQlKu5ePeBQByVgfz4fmJw3g'
+token = 'your token'
 
 bot = telebot.TeleBot(token)
 hp = damage = exp = 0
